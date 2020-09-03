@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Don't commit nvdcve databases
+nvdcve-1.0-*.json
+cve_db.json
